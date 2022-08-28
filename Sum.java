@@ -1,7 +1,7 @@
 public class Sum {
     public static void main(String[] args) {
-        int a;
-        int b;
-        System.out.println(a+b);
+        int a = 5;
+        int b = 6;
+        System.out.println("The Sum is"+ (a+b));
     }
 }
